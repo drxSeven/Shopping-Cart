@@ -1,0 +1,12 @@
+TODO:
+
+    1. "Check Cart"
+        A button that opens our "Check cart" Pop-ip
+    2."Cart Number"
+        A number that increases after items are added to the cart.
+    3."Add to cart"
+        increases cart number aswell as adds specified item to cart menu
+    4."Cart Menu"
+        displays all items added to the cart with their descriptions
+    5."Product Carousel"
+        A Carousel that displays Featured Products
