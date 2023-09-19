@@ -10,3 +10,11 @@ TODO:
         displays all items added to the cart with their descriptions
     5."Product Carousel"
         A Carousel that displays Featured Products
+
+Technologies to use:
+
+    1. HTML
+    2. Javascript
+    3. CSS (either tailwind or bootstrap)
+    4. Mongo DB? - store a small amount of Products and display them
+    
